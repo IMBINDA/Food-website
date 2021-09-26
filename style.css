@@ -15,8 +15,8 @@
 }
 
 #Country-list{
-    background-color: aquamarine;
-    padding:0 0 0 400px  ;
+    
+    align-content: flex-start  ;
     
 }
 #separator {
@@ -34,4 +34,9 @@
     font-size: 40px;
     display: inline-block;
     font-family: 'Gochi Hand', cursive;
+}
+
+
+#contacts{
+    background-color: #caf0f8;
 }
