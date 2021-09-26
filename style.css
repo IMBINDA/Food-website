@@ -9,9 +9,11 @@
 }
 
 #dark-mode{
-    padding:0 0 0 200px  ;
+    padding:0  200px 0 200px  ;
     background-color: #F0EAD6;
+    font: 40px;
 }
+
 #Country-list{
     background-color: aquamarine;
     padding:0 0 0 400px  ;
