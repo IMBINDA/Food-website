@@ -9,5 +9,27 @@
 }
 
 #dark-mode{
+    padding:0 0 0 200px  ;
     background-color: #F0EAD6;
+}
+#Country-list{
+    background-color: aquamarine;
+    padding:0 0 0 400px  ;
+    
+}
+#separator {
+    border-bottom: 1px dashed #343434;
+    padding: 25px 0;
+
+}
+
+.spacing{
+    padding:40px 0 0 0;
+}
+#float01 {
+    padding:100px 0 0 80px;
+    vertical-align:top ;
+    font-size: 40px;
+    display: inline-block;
+    font-family: 'Gochi Hand', cursive;
 }
