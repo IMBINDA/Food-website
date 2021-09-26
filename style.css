@@ -1,0 +1,13 @@
+.heading {
+  text-align: center;
+  color:#ec7034;
+  font-family: 'Lobster Two', cursive;
+}
+
+#subheading {
+    color:#090303;
+}
+
+#dark-mode{
+    background-color: #F0EAD6;
+}
